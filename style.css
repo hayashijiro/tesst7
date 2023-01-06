@@ -1,0 +1,30 @@
+body{
+    font-family: arial;
+  
+    margin: 0;
+    background: linear-gradient(to right bottom, #000000, #000000);
+
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh; 
+    color: #000;
+    }
+    h1{
+        font-size: 50px;
+        color: rgb(179, 30, 67);
+        top: 100px;
+    }
+    p{
+        font-size: 50px;
+        color: rgb(3, 32, 95);
+    }
+    .csw-btn-button {
+        cursor: pointer;
+        font-size: 20px 20px;
+        padding: 10px 35px;
+        color: #000000 !important;
+        border-radius: 5px;
+        background: #b0cada;
+        border: 1px solid #b0cada;
+        transition: 0.4s;
+      }
